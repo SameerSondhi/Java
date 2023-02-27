@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body{
+	text-align: center;
+}
+.message{
+	background-color: skyblue;
+	border: 4px solid black;
+}
